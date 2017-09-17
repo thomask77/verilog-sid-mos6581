@@ -1,0 +1,2 @@
+BeMicro_MAX10_top.qar
+BeMicro_MAX10_top.qp_info

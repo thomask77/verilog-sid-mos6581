@@ -1,0 +1,5 @@
+BeMicro_MAX10_top.v
+BeMicro_MAX10_top.sdc
+platform_setup.tcl
+filelist.txt
+BeMicro_MAX10_top.vhd
